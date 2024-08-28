@@ -20,7 +20,7 @@
   <h2>Contributing</h2>
   <p>🤝 We welcome contributions! Feel free to open issues, submit pull requests, or suggest improvements. Together, let's make this web app even more amazing.</p>
   <h2>Support</h2>
-  <p>📧 Have questions or need assistance? Contact us at <a href="mailto:vishwajitingole22@gmail.com">codervish@merndev.com</a></p>
+  <p>📧 Have questions or need assistance? Contact us at <a href="mailto:anujanand323@gmail.com"></a></p>
   <h2>License</h2>
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 </body>
